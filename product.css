@@ -5,9 +5,18 @@
 .schedbox {
   background-color:#80ACB7;
 }
+ div.schedbox a {
+  color: pink;
+  border-color: pink;
+ }
+
+div.callbox a {
+  color: teal;
+  border-color: teal;
+}
 
 .busbox {
-  width: 60%;
+  color: black;
 }
 
 .landing-bg
