@@ -6,8 +6,9 @@
   background-color:#80ACB7;
 }
  div.schedbox a {
-  color: pink;
-  border-color: pink;
+  color: white;
+  border-color: white;
+  background: rgba(128,172,183,.5);
  }
 
 div.callbox a {
@@ -24,7 +25,7 @@ div.callbox a {
   width: 100%;
  }
 
-
+ 
 .container {
   max-width: 960px;
 }
